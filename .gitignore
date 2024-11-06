@@ -1,0 +1,7 @@
+__pycache__
+dataset_256
+dataset_256
+checkpoints
+best_models
+*/*logs*/*
+*/best/*
